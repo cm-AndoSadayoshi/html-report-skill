@@ -57,7 +57,7 @@ Claude がレポートを作り、公開してよいか確認したうえで `sc
 
 ## 解説記事
 
-[TODO: DevelopersIO の記事 URL]
+[AIが作ったHTMLをGoogle Workspaceで社内限定公開してみた | DevelopersIO](https://dev.classmethod.jp/articles/html-service-20260924/)
 
 ## License
 
