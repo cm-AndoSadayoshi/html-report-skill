@@ -1,0 +1,9 @@
+{
+  "name": "html-report-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HTMLレポートをGoogle Workspace ドメイン限定の Apps Script ウェブアプリとして配信する Claude Code スキル",
+  "devDependencies": {
+    "@google/clasp": "^3.3.0"
+  }
+}
